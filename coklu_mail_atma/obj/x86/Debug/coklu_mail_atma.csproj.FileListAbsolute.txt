@@ -1,0 +1,26 @@
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\bin\Debug\coklu_mail_atma.exe
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\bin\Debug\coklu_mail_atma.pdb
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.Form1.resources
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.Properties.Resources.resources
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.exe
+C:\Users\tos\Desktop\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.pdb
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.exe
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.pdb
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\bin\Debug\coklu_mail_atma.exe
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\bin\Debug\coklu_mail_atma.pdb
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.Form1.resources
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.Properties.Resources.resources
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.csproj.GenerateResource.Cache
+C:\Users\tos\Desktop\Projelerim\c#\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.exe
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.pdb
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\bin\Debug\coklu_mail_atma.exe
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\bin\Debug\coklu_mail_atma.pdb
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.Form1.resources
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.Properties.Resources.resources
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Masaüstü\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.exe
+C:\Users\tos\Desktop\Safa-Projelerim\C# Herşey\coklu_mail_atma\coklu_mail_atma\obj\x86\Debug\coklu_mail_atma.pdb
